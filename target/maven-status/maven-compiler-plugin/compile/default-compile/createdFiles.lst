@@ -1,0 +1,6 @@
+com/fc/repository/AakashSapRepository.class
+com/fc/config/ApplicationInitializer.class
+com/fc/exception/ApplicationException.class
+com/fc/domain/AakashSap.class
+com/fc/service/AakashSapService.class
+com/fc/resources/AakashSapController.class
